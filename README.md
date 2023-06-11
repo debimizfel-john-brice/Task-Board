@@ -1,6 +1,6 @@
 # Task-Board
 
-Task Board - Organize Your To-Do List
+## Organize Your To-Do List
 
 ### Description
 
