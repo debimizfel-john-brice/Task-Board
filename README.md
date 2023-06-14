@@ -20,5 +20,4 @@ The Task Board project aims to provide a user-friendly platform for managing you
  - **Backend** - Use of locale storage.
 
 ## Preview
- 
- ![Alt Text](/home/deborah/Documents/Board-Task-Deborah-Mizrahi/preview/board.png)
+(https://i.imgur.com/TR2xNyo.png)
