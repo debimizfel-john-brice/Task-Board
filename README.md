@@ -20,4 +20,7 @@ The Task Board project aims to provide a user-friendly platform for managing you
  - **Backend** - Use of locale storage.
 
 ## Preview
-![](https://i.imgur.com/TR2xNyo.png)
+### Borad
+![](https://imgur.com/8AFaqh0.png)
+### Tasks
+![](https://imgur.com/l8oAc9c.png)
