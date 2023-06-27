@@ -223,19 +223,19 @@ i {
 }
 
 .postit-1 {
-    background-image: url('/assets/postit_1.png');
+    background-image: url('assets/postit_1.png');
 }
 
 .postit-2 {
-    background-image: url('/assets/postit_2.png');
+    background-image: url('assets/postit_2.png');
 }
 
 .postit-3 {
-    background-image: url('/assets/postit_3.png');
+    background-image: url('assets/postit_3.png');
 }
 
 .postit-4 {
-    background-image: url('/assets/postit_4.png');
+    background-image: url('assets/postit_4.png');
     color: white;
     padding-bottom: 30px;
     padding-left: 80px;
@@ -243,14 +243,14 @@ i {
 }
 
 .postit-5 {
-    background-image: url('/assets/postit_5.png');
+    background-image: url('assets/postit_5.png');
     padding-bottom: 30px;
     padding-left: 80px;
     padding-top: 90px;
 }
 
 .postit-6 {
-    background-image: url('/assets/postit_6.png');
+    background-image: url('assets/postit_6.png');
 }
 
 .animated {
